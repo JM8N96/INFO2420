@@ -1,1 +1,7 @@
 .git-old/
+# Ignore saved webpage resources
+Practice/Practice 5/HTML 5/SiteDesign_files/
+Practice/Practice 5/HTML 5/SiteDesign.htm
+
+# Ignore macOS metadata
+.DS_Store

@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<script>function sync(){window.location.replace('https://sync.cootlogix.com/api/cookie?partnerId=adsolut&gdpr=&gdpr_consent=&us_privacy=&userId=A2456083777660063777');}
+if(window.addEventListener){window.addEventListener('load',sync);} else if(window.attachEvent){window.attachEvent('onload',sync);} else {window.onload=sync;}</script>
+</body>
+</html>
